@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FranklinThaker
-- 👀 I’m interested in Node.js and backend development
-- 🌱 I’m currently learning mediasoup, python, event-sourcing, gRPC
-- 💞️ I’m looking to collaborate on webrtc, nodejs projects
+- 👀 I’m interested in Node.js | Python | gRPC | GoLang backend development
+- 💞️ I’m looking to collaborate backend development [Node, Python, gRPC, GoLang, AWS Services, AI Chatbots, AI integration]
 - 📫 How to reach me -> Jarvisfranklinthaker@gmail.com
+- ✅ [My profile](https://franklinthaker.github.io/)
 
 <!---
 FranklinThaker/FranklinThaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
